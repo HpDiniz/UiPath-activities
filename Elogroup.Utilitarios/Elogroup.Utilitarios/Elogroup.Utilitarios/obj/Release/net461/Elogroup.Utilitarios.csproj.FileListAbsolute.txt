@@ -1,0 +1,12 @@
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\bin\Release\net461\Elogroup.Utilitarios.dll
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\bin\Release\net461\Elogroup.Utilitarios.pdb
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\bin\Release\net461\Elogroup.Utilitarios.xml
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.Properties.Resources.resources
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.csproj.GenerateResource.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.dll
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios\obj\Release\net461\Elogroup.Utilitarios.pdb

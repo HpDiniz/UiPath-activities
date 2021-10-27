@@ -1,0 +1,80 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v4.6.1": {
+      "Elogroup.Utilitarios/1.0.0": {
+        "type": "project",
+        "framework": ".NETFramework,Version=v4.6.1",
+        "compile": {
+          "bin/placeholder/Elogroup.Utilitarios.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Elogroup.Utilitarios.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Elogroup.Utilitarios/1.0.0": {
+      "type": "project",
+      "path": "../Elogroup.Utilitarios/Elogroup.Utilitarios.csproj",
+      "msbuildProject": "../Elogroup.Utilitarios/Elogroup.Utilitarios.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v4.6.1": [
+      "Elogroup.Utilitarios >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Henrique\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Henrique\\source\\repos\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios.Activities\\Elogroup.Utilitarios.Activities.csproj",
+      "projectName": "Elogroup.Utilitarios.Activities.Implementation",
+      "projectPath": "C:\\Users\\Henrique\\source\\repos\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios.Activities\\Elogroup.Utilitarios.Activities.csproj",
+      "packagesPath": "C:\\Users\\Henrique\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Henrique\\source\\repos\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios.Activities\\obj\\",
+      "projectStyle": "PackageReference",
+      "crossTargeting": true,
+      "configFilePaths": [
+        "C:\\Users\\Henrique\\source\\repos\\Elogroup.Utilitarios\\.nuget\\NuGet.Config",
+        "C:\\Users\\Henrique\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net461"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {},
+        "https://nuget.org/api/v2/": {},
+        "https://www.myget.org/F/uipath/": {}
+      },
+      "frameworks": {
+        "net461": {
+          "targetAlias": "net461",
+          "projectReferences": {
+            "C:\\Users\\Henrique\\source\\repos\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios.csproj": {
+              "projectPath": "C:\\Users\\Henrique\\source\\repos\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios\\Elogroup.Utilitarios.csproj",
+              "privateAssets": "all"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net461": {
+        "targetAlias": "net461",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\5.0.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

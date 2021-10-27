@@ -1,0 +1,12 @@
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\bin\Debug\net461\Elogroup.BigQuery.dll
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\bin\Debug\net461\Elogroup.BigQuery.pdb
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\bin\Debug\net461\Elogroup.BigQuery.xml
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.Properties.Resources.resources
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.csproj.GenerateResource.cache
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.dll
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery\obj\Debug\net461\Elogroup.BigQuery.pdb

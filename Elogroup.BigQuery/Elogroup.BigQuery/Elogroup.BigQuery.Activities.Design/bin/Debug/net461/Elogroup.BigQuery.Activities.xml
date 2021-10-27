@@ -1,0 +1,327 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Elogroup.BigQuery.Activities</name>
+    </assembly>
+    <members>
+        <member name="P:Elogroup.BigQuery.Activities.RealizarConsulta.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="T:Elogroup.BigQuery.Activities.Properties.Resources">
+            <summary>
+              Uma classe de recurso de tipo de alta segurança, para pesquisar cadeias de caracteres localizadas etc.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ResourceManager">
+            <summary>
+              Retorna a instância de ResourceManager armazenada em cache usada por essa classe.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Culture">
+            <summary>
+              Substitui a propriedade CurrentUICulture do thread atual para todas as
+              pesquisas de recursos que usam essa classe de recurso de tipo de alta segurança.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Authentication_Category">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Authentication.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Common_Category">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Common.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ContinueOnError_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a If set, continue executing the remaining activities even if the current activity has failed..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ContinueOnError_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a ContinueOnError.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Do">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Do.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Input_Category">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Input.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Options_Category">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Options.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Output_Category">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Output.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Credentials_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Caminho completo para o json de credenciais.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Credentials_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Credentials.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Realiza uma consulta em em Big Query.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Realizar Consulta.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Query_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Query a ser utilizada na consulta.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Query_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Query.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Result_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a DataTable resultante da consulta.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Result_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Result.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Timeout_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Specifies the amount of time (in milliseconds) to wait for the activity to run before an error is thrown. The default value is 60000 (1 minute)..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Timeout_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Timeout (milliseconds).
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Timeout_Error">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a The activity timed out and was canceled..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ValidationExclusiveProperties_Error">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Please provide a value either for {0} or {1}, but not both..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ValidationOverloadGroup_Error">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Please provide values for both {0} and {1}..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ValidationScope_Error">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Cannot be used outside of a {0}..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ValidationValue_Error">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Please provide a value for {0}..
+            </summary>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Contracts.IBaseChildActivity">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Gets the services container. This stores the authenticated clients
+            </summary>
+            <param name="context">The context.</param>
+            <param name="propertyName"></param>
+            
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.IBaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Contracts.BaseChildActivity.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.IObjectContainer">
+            <summary>
+            A simple container for objects meant to be shared accross the application space.
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Add``1(``0)">
+            <summary>
+            Stores a reference to an object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="objectToAdd"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Get``1">
+            <summary>
+            Gets the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Where(System.Func{System.Object,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Remove``1">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Contains``1">
+            <summary>
+            Determines whether this instance contains the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns>
+              <c>true</c> if this instance contains object; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.IObjectContainer.Clear">
+            <summary>
+            Clears this instance.
+            </summary>
+        </member>
+        <member name="T:UiPath.Shared.Activities.Utilities.ChildActivityExtensions">
+            <summary>Provides the standard functionality across activities.</summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromUserState``1(System.Activities.AsyncCodeActivityContext)">
+            <summary>
+            Get object from context.UserState object. 
+            According to documentation, this is the place to store object for multithreaded access
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.SetToUserState``1(System.Activities.AsyncCodeActivityContext,``0)">
+            <summary>
+            Set context.UserState to desired value
+            </summary>
+            <typeparam name="U"></typeparam>
+            <param name="context"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.Utilities.ChildActivityExtensions.GetFromContext``1(System.Activities.ActivityContext,System.String)">
+            <summary>
+            Get object from Context properties
+            </summary>
+            <param name="context"></param>
+            <param name="propertyName"></param>
+            <returns></returns>
+        </member>
+        <member name="T:UiPath.Shared.Activities.ObjectContainer">
+            <summary>
+            A simple container for objects meant to be shared accross the application space.
+            </summary>
+        </member>
+        <member name="F:UiPath.Shared.Activities.ObjectContainer._objectHolder">
+            <summary>
+            Gets the object holder.
+            </summary>
+            <value>
+            The object holder.
+            </value>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:UiPath.Shared.Activities.ObjectContainer"/> class.
+            </summary>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Add``1(``0)">
+            <summary>
+            Stores a reference to a object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="object"></param>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Get``1">
+            <summary>
+            Gets the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Where(System.Func{System.Object,System.Boolean})">
+            <summary>
+            
+            </summary>
+            <param name="filter"></param>
+            <returns></returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Remove``1">
+            <summary>
+            Remove a object from the container
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Contains``1">
+            <summary>
+            Determines whether this instance contains the object.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns>
+              <c>true</c> if this instance contains object; otherwise, <c>false</c>.
+            </returns>
+        </member>
+        <member name="M:UiPath.Shared.Activities.ObjectContainer.Clear">
+            <summary>
+            Clears this instance.
+            </summary>
+        </member>
+    </members>
+</doc>

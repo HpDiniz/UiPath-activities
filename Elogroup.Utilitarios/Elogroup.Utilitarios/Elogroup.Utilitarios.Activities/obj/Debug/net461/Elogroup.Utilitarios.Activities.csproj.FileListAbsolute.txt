@@ -1,0 +1,15 @@
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\bin\Debug\net461\Elogroup.Utilitarios.Activities.dll
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\bin\Debug\net461\Elogroup.Utilitarios.Activities.pdb
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\bin\Debug\net461\Elogroup.Utilitarios.Activities.xml
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\bin\Debug\net461\Elogroup.Utilitarios.dll
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\bin\Debug\net461\Elogroup.Utilitarios.pdb
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\bin\Debug\net461\Elogroup.Utilitarios.xml
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.csproj.AssemblyReference.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.Properties.Resources.resources
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.csproj.GenerateResource.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.AssemblyInfoInputs.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.AssemblyInfo.cs
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.csproj.CoreCompileInputs.cache
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.dll
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities\obj\Debug\net461\Elogroup.Utilitarios.Activities.pdb
