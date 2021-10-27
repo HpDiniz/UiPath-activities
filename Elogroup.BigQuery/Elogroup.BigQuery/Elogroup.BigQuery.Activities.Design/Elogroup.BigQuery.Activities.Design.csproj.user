@@ -4,7 +4,12 @@
     <_LastSelectedProfileId>C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
-    <Page Update="Designers\RealizarConsultaDesigner.xaml">
+    <Page Update="Designers\ExecuteQueryDesigner.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Designers\BigQueryScopeDesigner.xaml">
       <SubType>Designer</SubType>
     </Page>
   </ItemGroup>

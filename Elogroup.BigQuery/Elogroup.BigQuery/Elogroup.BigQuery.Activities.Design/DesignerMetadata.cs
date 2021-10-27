@@ -15,9 +15,13 @@ namespace Elogroup.BigQuery.Activities.Design
 
             var categoryAttribute = new CategoryAttribute($"{Resources.Category}");
 
-            builder.AddCustomAttributes(typeof(RealizarConsulta), categoryAttribute);
-            builder.AddCustomAttributes(typeof(RealizarConsulta), new DesignerAttribute(typeof(RealizarConsultaDesigner)));
-            builder.AddCustomAttributes(typeof(RealizarConsulta), new HelpKeywordAttribute(""));
+            builder.AddCustomAttributes(typeof(BigQueryScope), categoryAttribute);
+            builder.AddCustomAttributes(typeof(BigQueryScope), new DesignerAttribute(typeof(BigQueryScopeDesigner)));
+            builder.AddCustomAttributes(typeof(BigQueryScope), new HelpKeywordAttribute(""));
+
+            builder.AddCustomAttributes(typeof(ExecuteQuery), categoryAttribute);
+            builder.AddCustomAttributes(typeof(ExecuteQuery), new DesignerAttribute(typeof(ExecuteQueryDesigner)));
+            builder.AddCustomAttributes(typeof(ExecuteQuery), new HelpKeywordAttribute(""));
 
 
             MetadataStore.AddAttributeTable(builder.CreateTable());

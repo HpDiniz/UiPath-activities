@@ -63,11 +63,11 @@
           "lib/net461/Google.Apis.Auth.dll": {}
         }
       },
-      "Google.Apis.Bigquery.v2/1.54.0.2397": {
+      "Google.Apis.Bigquery.v2/1.55.0.2481": {
         "type": "package",
         "dependencies": {
-          "Google.Apis": "1.54.0",
-          "Google.Apis.Auth": "1.54.0"
+          "Google.Apis": "1.55.0",
+          "Google.Apis.Auth": "1.55.0"
         },
         "compile": {
           "lib/net45/Google.Apis.Bigquery.v2.dll": {}
@@ -89,19 +89,6 @@
         },
         "runtime": {
           "lib/net45/Google.Apis.Core.dll": {}
-        }
-      },
-      "Google.Apis.Oauth2.v2/1.55.0.1869": {
-        "type": "package",
-        "dependencies": {
-          "Google.Apis": "1.55.0",
-          "Google.Apis.Auth": "1.55.0"
-        },
-        "compile": {
-          "lib/net45/Google.Apis.Oauth2.v2.dll": {}
-        },
-        "runtime": {
-          "lib/net45/Google.Apis.Oauth2.v2.dll": {}
         }
       },
       "Google.Cloud.BigQuery.V2/2.3.0": {
@@ -166,7 +153,8 @@
         "type": "project",
         "framework": ".NETFramework,Version=v4.6.1",
         "dependencies": {
-          "Google.Apis.Oauth2.v2": "1.55.0.1869",
+          "Google.Apis.Auth": "1.55.0",
+          "Google.Apis.Bigquery.v2": "1.55.0.2481",
           "Google.Cloud.BigQuery.V2": "2.3.0"
         },
         "compile": {
@@ -269,16 +257,16 @@
         "lib/netstandard2.0/Google.Apis.Auth.xml"
       ]
     },
-    "Google.Apis.Bigquery.v2/1.54.0.2397": {
-      "sha512": "UtkYkZpLS4VIkjMg704lJMAWebJrMgKW9guuK8qfOtAkQAltZFk7+kica6p3INh8gxVQ2Na1bw8mPLfYaSB/iA==",
+    "Google.Apis.Bigquery.v2/1.55.0.2481": {
+      "sha512": "dJmEDNn3mvjv4uedVPbEWkkwr20w0dwkn57Z5A9wb9wBNvgk/xnV0LvOF6MKdrxQXWHz1xZtbRjLtpzJnKhyuQ==",
       "type": "package",
-      "path": "google.apis.bigquery.v2/1.54.0.2397",
+      "path": "google.apis.bigquery.v2/1.55.0.2481",
       "files": [
         ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE",
         "NuGetIcon.png",
-        "google.apis.bigquery.v2.1.54.0.2397.nupkg.sha512",
+        "google.apis.bigquery.v2.1.55.0.2481.nupkg.sha512",
         "google.apis.bigquery.v2.nuspec",
         "lib/net40/Google.Apis.Bigquery.v2.dll",
         "lib/net40/Google.Apis.Bigquery.v2.pdb",
@@ -317,34 +305,6 @@
         "lib/netstandard2.0/Google.Apis.Core.dll",
         "lib/netstandard2.0/Google.Apis.Core.pdb",
         "lib/netstandard2.0/Google.Apis.Core.xml"
-      ]
-    },
-    "Google.Apis.Oauth2.v2/1.55.0.1869": {
-      "sha512": "8EUnRyw79lwPDTguAPY2wp5be9PKX9UFNmQUXxp4yg83tr3ieeACo3JtNDOlnPAIIJZ7HFJ/jE5kZrfbJ5GRVw==",
-      "type": "package",
-      "path": "google.apis.oauth2.v2/1.55.0.1869",
-      "files": [
-        ".nupkg.metadata",
-        ".signature.p7s",
-        "LICENSE",
-        "NuGetIcon.png",
-        "google.apis.oauth2.v2.1.55.0.1869.nupkg.sha512",
-        "google.apis.oauth2.v2.nuspec",
-        "lib/net40/Google.Apis.Oauth2.v2.dll",
-        "lib/net40/Google.Apis.Oauth2.v2.pdb",
-        "lib/net40/Google.Apis.Oauth2.v2.xml",
-        "lib/net45/Google.Apis.Oauth2.v2.dll",
-        "lib/net45/Google.Apis.Oauth2.v2.pdb",
-        "lib/net45/Google.Apis.Oauth2.v2.xml",
-        "lib/netstandard1.0/Google.Apis.Oauth2.v2.dll",
-        "lib/netstandard1.0/Google.Apis.Oauth2.v2.pdb",
-        "lib/netstandard1.0/Google.Apis.Oauth2.v2.xml",
-        "lib/netstandard1.3/Google.Apis.Oauth2.v2.dll",
-        "lib/netstandard1.3/Google.Apis.Oauth2.v2.pdb",
-        "lib/netstandard1.3/Google.Apis.Oauth2.v2.xml",
-        "lib/netstandard2.0/Google.Apis.Oauth2.v2.dll",
-        "lib/netstandard2.0/Google.Apis.Oauth2.v2.pdb",
-        "lib/netstandard2.0/Google.Apis.Oauth2.v2.xml"
       ]
     },
     "Google.Cloud.BigQuery.V2/2.3.0": {

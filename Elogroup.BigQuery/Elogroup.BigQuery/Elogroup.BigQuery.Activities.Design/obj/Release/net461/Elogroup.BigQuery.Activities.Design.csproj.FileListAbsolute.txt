@@ -9,7 +9,6 @@ C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQ
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Google.Apis.Auth.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Google.Apis.Bigquery.v2.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Google.Apis.Core.dll
-C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Google.Apis.Oauth2.v2.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Google.Cloud.BigQuery.V2.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\bin\Release\net461\Newtonsoft.Json.dll
@@ -119,7 +118,8 @@ C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQ
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\ComboboxControl.baml
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\FilePathControl.baml
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\RestrictiveBodyConnector.baml
-C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Designers\RealizarConsultaDesigner.g.cs
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Designers\BigQueryScopeDesigner.g.cs
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Designers\ExecuteQueryDesigner.g.cs
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\ComboboxControl.g.cs
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\FilePathControl.g.cs
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\RestrictiveBodyConnector.g.cs
@@ -128,7 +128,8 @@ C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQ
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Elogroup.BigQuery.Activities.Design_MarkupCompile.cache
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Elogroup.BigQuery.Activities.Design_MarkupCompile.lref
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Generic.baml
-C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Designers\RealizarConsultaDesigner.baml
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Designers\BigQueryScopeDesigner.baml
+C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Designers\ExecuteQueryDesigner.baml
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\EditorTemplates.baml
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Elogroup.BigQuery.Activities.Design.g.resources
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities.Design\obj\Release\net461\Elogroup.BigQuery.Activities.Design.Properties.Resources.resources

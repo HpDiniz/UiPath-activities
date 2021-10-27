@@ -4,15 +4,28 @@
         <name>Elogroup.BigQuery.Activities.Design</name>
     </assembly>
     <members>
-        <member name="T:Elogroup.BigQuery.Activities.Design.Designers.RealizarConsultaDesigner">
+        <member name="T:Elogroup.BigQuery.Activities.Design.Designers.BigQueryScopeDesigner">
             <summary>
-            Interaction logic for RealizarConsultaDesigner.xaml
+            Interaction logic for BigQueryScopeDesigner.xaml
             </summary>
             <summary>
-            RealizarConsultaDesigner
+            BigQueryScopeDesigner
             </summary>
         </member>
-        <member name="M:Elogroup.BigQuery.Activities.Design.Designers.RealizarConsultaDesigner.InitializeComponent">
+        <member name="M:Elogroup.BigQuery.Activities.Design.Designers.BigQueryScopeDesigner.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
+        <member name="T:Elogroup.BigQuery.Activities.Design.Designers.ExecuteQueryDesigner">
+            <summary>
+            Interaction logic for ExecuteQueryDesigner.xaml
+            </summary>
+            <summary>
+            ExecuteQueryDesigner
+            </summary>
+        </member>
+        <member name="M:Elogroup.BigQuery.Activities.Design.Designers.ExecuteQueryDesigner.InitializeComponent">
             <summary>
             InitializeComponent
             </summary>

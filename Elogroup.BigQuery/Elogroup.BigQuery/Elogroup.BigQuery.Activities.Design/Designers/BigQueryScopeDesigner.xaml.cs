@@ -1,11 +1,11 @@
 namespace Elogroup.BigQuery.Activities.Design.Designers
 {
     /// <summary>
-    /// Interaction logic for RealizarConsultaDesigner.xaml
+    /// Interaction logic for BigQueryScopeDesigner.xaml
     /// </summary>
-    public partial class RealizarConsultaDesigner
+    public partial class BigQueryScopeDesigner
     {
-        public RealizarConsultaDesigner()
+        public BigQueryScopeDesigner()
         {
             InitializeComponent();
         }

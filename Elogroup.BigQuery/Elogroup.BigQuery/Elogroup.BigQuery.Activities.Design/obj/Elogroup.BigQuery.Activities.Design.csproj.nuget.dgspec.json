@@ -97,9 +97,13 @@
         "net461": {
           "targetAlias": "net461",
           "dependencies": {
-            "Google.Apis.Oauth2.v2": {
+            "Google.Apis.Auth": {
               "target": "Package",
-              "version": "[1.55.0.1869, )"
+              "version": "[1.55.0, )"
+            },
+            "Google.Apis.Bigquery.v2": {
+              "target": "Package",
+              "version": "[1.55.0.2481, )"
             },
             "Google.Cloud.BigQuery.V2": {
               "target": "Package",

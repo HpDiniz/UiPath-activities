@@ -9,7 +9,6 @@ C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQ
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Google.Apis.Auth.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Google.Apis.Bigquery.v2.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Google.Apis.Core.dll
-C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Google.Apis.Oauth2.v2.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Google.Cloud.BigQuery.V2.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Microsoft.Bcl.AsyncInterfaces.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\bin\Debug\net461\Newtonsoft.Json.dll
@@ -121,6 +120,5 @@ C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQ
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\obj\Debug\net461\Elogroup.BigQuery.Activities.AssemblyInfoInputs.cache
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\obj\Debug\net461\Elogroup.BigQuery.Activities.AssemblyInfo.cs
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\obj\Debug\net461\Elogroup.BigQuery.Activities.csproj.CoreCompileInputs.cache
-C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\obj\Debug\net461\Elogroup.BigQuery.Activities.csproj.CopyComplete
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\obj\Debug\net461\Elogroup.BigQuery.Activities.dll
 C:\Users\Henrique\source\repos\Elogroup.BigQuery\Elogroup.BigQuery\Elogroup.BigQuery.Activities\obj\Debug\net461\Elogroup.BigQuery.Activities.pdb

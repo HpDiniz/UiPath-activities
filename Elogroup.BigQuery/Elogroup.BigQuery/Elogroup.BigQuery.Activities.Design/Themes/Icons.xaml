@@ -1,8 +1,8 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
 
-        <!--RealizarConsulta Icon-->
-    <DrawingGroup x:Key="googlebigquerylogoicon1681501b4b8532190347a68ab2ee8a6dd2623e_0">
+        <!--BigQueryScope, ExecuteQuery Icon-->
+    <DrawingGroup x:Key="googlebigquerylogoicon16815021b4b367f0474389a25ffbdfeaf2c545_0">
       <DrawingGroup.ClipGeometry>
         <RectangleGeometry Rect="0,0,64,64" />
       </DrawingGroup.ClipGeometry>
@@ -27,7 +27,8 @@
         </GeometryDrawing.Geometry>
       </GeometryDrawing>
     </DrawingGroup>
-    <DrawingBrush x:Key="RealizarConsultaIcon" Drawing="{StaticResource googlebigquerylogoicon1681501b4b8532190347a68ab2ee8a6dd2623e_0}" />
+    <DrawingBrush x:Key="BigQueryScopeIcon" Drawing="{StaticResource googlebigquerylogoicon16815021b4b367f0474389a25ffbdfeaf2c545_0}" />
+    <DrawingBrush x:Key="ExecuteQueryIcon" Drawing="{StaticResource googlebigquerylogoicon16815021b4b367f0474389a25ffbdfeaf2c545_0}" />
 
 
 </ResourceDictionary>

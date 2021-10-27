@@ -30,7 +30,8 @@
     <PackageVersion>0.1.0</PackageVersion>
   </PropertyGroup>
   <ItemGroup>
-    <None Remove="Designers\RealizarConsultaDesigner.xaml" />
+    <None Remove="Designers\BigQueryScopeDesigner.xaml" />
+    <None Remove="Designers\ExecuteQueryDesigner.xaml" />
   </ItemGroup>
   <!-- Package Icon -->
   <ItemGroup>
@@ -77,7 +78,10 @@
       <SubType>Designer</SubType>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Page>
-    <Page Include="Designers\RealizarConsultaDesigner.xaml">
+    <Page Include="Designers\BigQueryScopeDesigner.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
+    </Page>
+    <Page Include="Designers\ExecuteQueryDesigner.xaml">
       <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
     </Page>
     <Page Include="Themes\Icons.xaml">

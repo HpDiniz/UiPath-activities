@@ -10,7 +10,8 @@
     <DocumentationFile>bin\$(Configuration)\Elogroup.BigQuery.Activities.xml</DocumentationFile>
   </PropertyGroup>
   <ItemGroup>
-    <PackageReference Include="Google.Apis.Oauth2.v2" Version="1.55.0.1869" />
+    <PackageReference Include="Google.Apis.Auth" Version="1.55.0" />
+    <PackageReference Include="Google.Apis.Bigquery.v2" Version="1.55.0.2481" />
     <PackageReference Include="Google.Cloud.BigQuery.V2" Version="2.3.0" />
   </ItemGroup>
 	<ItemGroup>

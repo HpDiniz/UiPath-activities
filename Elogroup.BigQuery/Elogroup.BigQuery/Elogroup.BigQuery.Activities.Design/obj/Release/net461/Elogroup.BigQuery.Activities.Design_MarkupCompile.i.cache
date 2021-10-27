@@ -10,11 +10,11 @@ none
 false
 TRACE;RELEASE;NETFRAMEWORK;NET461;
 
-71025104437
+81544055727
 
-20733810754
-1411557348470
-..\..\Shared\Themes\Generic.xaml;Designers\RealizarConsultaDesigner.xaml;Themes\Icons.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
+21890220515
+1401294309796
+..\..\Shared\Themes\Generic.xaml;Designers\BigQueryScopeDesigner.xaml;Designers\ExecuteQueryDesigner.xaml;Themes\Icons.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Controls\ComboboxControl.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Controls\FilePathControl.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Controls\RestrictiveBodyConnector.xaml;C:\Users\Henrique\source\repos\Elogroup.BigQuery\Shared\UiPath.Shared.Activities.Design\Editors\EditorTemplates.xaml;
 
-False
+True
 

@@ -70,6 +70,42 @@ namespace Elogroup.BigQuery.Activities.Properties {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Full Directory for Credentials Json.
+        /// </summary>
+        public static string BigQueryScope_Credentials_Description {
+            get {
+                return ResourceManager.GetString("BigQueryScope_Credentials_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Credentials.
+        /// </summary>
+        public static string BigQueryScope_Credentials_DisplayName {
+            get {
+                return ResourceManager.GetString("BigQueryScope_Credentials_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Provides a scope for Big Query Activities..
+        /// </summary>
+        public static string BigQueryScope_Description {
+            get {
+                return ResourceManager.GetString("BigQueryScope_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Big Query Scope.
+        /// </summary>
+        public static string BigQueryScope_DisplayName {
+            get {
+                return ResourceManager.GetString("BigQueryScope_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a Common.
         /// </summary>
         public static string Common_Category {
@@ -106,6 +142,60 @@ namespace Elogroup.BigQuery.Activities.Properties {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Stores the output of the SQL query in a DataTable variable..
+        /// </summary>
+        public static string ExecuteQuery_DataTable_Description {
+            get {
+                return ResourceManager.GetString("ExecuteQuery_DataTable_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a DataTable.
+        /// </summary>
+        public static string ExecuteQuery_DataTable_DisplayName {
+            get {
+                return ResourceManager.GetString("ExecuteQuery_DataTable_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Executes a query on a Big Query and returns the query result in a Datatable..
+        /// </summary>
+        public static string ExecuteQuery_Description {
+            get {
+                return ResourceManager.GetString("ExecuteQuery_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Execute Query.
+        /// </summary>
+        public static string ExecuteQuery_DisplayName {
+            get {
+                return ResourceManager.GetString("ExecuteQuery_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a An sql command to be executed..
+        /// </summary>
+        public static string ExecuteQuery_Query_Description {
+            get {
+                return ResourceManager.GetString("ExecuteQuery_Query_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Query.
+        /// </summary>
+        public static string ExecuteQuery_Query_DisplayName {
+            get {
+                return ResourceManager.GetString("ExecuteQuery_Query_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a Input.
         /// </summary>
         public static string Input_Category {
@@ -129,78 +219,6 @@ namespace Elogroup.BigQuery.Activities.Properties {
         public static string Output_Category {
             get {
                 return ResourceManager.GetString("Output_Category", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Caminho completo para o json de credenciais.
-        /// </summary>
-        public static string RealizarConsulta_Credentials_Description {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Credentials_Description", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Credentials.
-        /// </summary>
-        public static string RealizarConsulta_Credentials_DisplayName {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Credentials_DisplayName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Realiza uma consulta em em Big Query.
-        /// </summary>
-        public static string RealizarConsulta_Description {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Description", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Realizar Consulta.
-        /// </summary>
-        public static string RealizarConsulta_DisplayName {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_DisplayName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Query a ser utilizada na consulta.
-        /// </summary>
-        public static string RealizarConsulta_Query_Description {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Query_Description", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Query.
-        /// </summary>
-        public static string RealizarConsulta_Query_DisplayName {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Query_DisplayName", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a DataTable resultante da consulta.
-        /// </summary>
-        public static string RealizarConsulta_Result_Description {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Result_Description", resourceCulture);
-            }
-        }
-        
-        /// <summary>
-        ///   Consulta uma cadeia de caracteres localizada semelhante a Result.
-        /// </summary>
-        public static string RealizarConsulta_Result_DisplayName {
-            get {
-                return ResourceManager.GetString("RealizarConsulta_Result_DisplayName", resourceCulture);
             }
         }
         

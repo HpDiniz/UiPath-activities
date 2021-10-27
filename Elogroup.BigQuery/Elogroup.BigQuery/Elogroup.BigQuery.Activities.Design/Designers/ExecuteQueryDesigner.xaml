@@ -1,4 +1,4 @@
-<sap:ActivityDesigner x:Class="Elogroup.BigQuery.Activities.Design.Designers.RealizarConsultaDesigner"
+<sap:ActivityDesigner x:Class="Elogroup.BigQuery.Activities.Design.Designers.ExecuteQueryDesigner"
                       xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
                       xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
                       xmlns:activity="clr-namespace:Elogroup.BigQuery.Activities.Properties;assembly=Elogroup.BigQuery.Activities"
@@ -27,21 +27,11 @@
             <Grid.RowDefinitions>
                 <RowDefinition Height="Auto" />
                 <RowDefinition Height="Auto" />
-                <RowDefinition Height="Auto" />
-                <RowDefinition Height="Auto" />
             </Grid.RowDefinitions>
 
-            <Label Content="{x:Static activity:Resources.RealizarConsulta_Credentials_DisplayName}" Grid.Row="0"
-                   ToolTip="{x:Static activity:Resources.RealizarConsulta_Credentials_Description}"/>
-            <sapv:ExpressionTextBox Grid.Row="1" ExpressionType="{Binding ModelItem.Properties[Credentials].PropertyType.GenericTypeArguments[0]}" OwnerActivity="{Binding Path=ModelItem}" HintText="{x:Static activity:Resources.RealizarConsulta_Credentials_Description}" UseLocationExpression="False">
-                <sapv:ExpressionTextBox.Expression>
-                    <Binding Path="ModelItem.Credentials" Converter="{StaticResource ArgumentToExpressionConverter}" Mode="TwoWay" ConverterParameter="In" UpdateSourceTrigger="PropertyChanged" />
-                </sapv:ExpressionTextBox.Expression>
-            </sapv:ExpressionTextBox>
-
-            <Label Content="{x:Static activity:Resources.RealizarConsulta_Query_DisplayName}" Grid.Row="2"
-                   ToolTip="{x:Static activity:Resources.RealizarConsulta_Query_Description}"/>
-            <sapv:ExpressionTextBox Grid.Row="3" ExpressionType="{Binding ModelItem.Properties[Query].PropertyType.GenericTypeArguments[0]}" OwnerActivity="{Binding Path=ModelItem}" HintText="{x:Static activity:Resources.RealizarConsulta_Query_Description}" UseLocationExpression="False">
+            <Label Content="{x:Static activity:Resources.ExecuteQuery_Query_DisplayName}" Grid.Row="0"
+                   ToolTip="{x:Static activity:Resources.ExecuteQuery_Query_Description}"/>
+            <sapv:ExpressionTextBox Grid.Row="1" ExpressionType="{Binding ModelItem.Properties[Query].PropertyType.GenericTypeArguments[0]}" OwnerActivity="{Binding Path=ModelItem}" HintText="{x:Static activity:Resources.ExecuteQuery_Query_Description}" UseLocationExpression="False">
                 <sapv:ExpressionTextBox.Expression>
                     <Binding Path="ModelItem.Query" Converter="{StaticResource ArgumentToExpressionConverter}" Mode="TwoWay" ConverterParameter="In" UpdateSourceTrigger="PropertyChanged" />
                 </sapv:ExpressionTextBox.Expression>

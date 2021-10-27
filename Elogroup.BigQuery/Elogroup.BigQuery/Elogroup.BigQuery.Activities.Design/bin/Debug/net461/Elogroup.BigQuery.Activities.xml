@@ -4,7 +4,12 @@
         <name>Elogroup.BigQuery.Activities</name>
     </assembly>
     <members>
-        <member name="P:Elogroup.BigQuery.Activities.RealizarConsulta.ContinueOnError">
+        <member name="P:Elogroup.BigQuery.Activities.BigQueryScope.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.ExecuteQuery.ContinueOnError">
             <summary>
             If set, continue executing the remaining activities even if the current activity has failed.
             </summary>
@@ -30,6 +35,26 @@
               Consulta uma cadeia de caracteres localizada semelhante a Authentication.
             </summary>
         </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.BigQueryScope_Credentials_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Full Directory for Credentials Json.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.BigQueryScope_Credentials_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Credentials.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.BigQueryScope_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Provides a scope for Big Query Activities..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.BigQueryScope_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Big Query Scope.
+            </summary>
+        </member>
         <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Common_Category">
             <summary>
               Consulta uma cadeia de caracteres localizada semelhante a Common.
@@ -50,6 +75,36 @@
               Consulta uma cadeia de caracteres localizada semelhante a Do.
             </summary>
         </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ExecuteQuery_DataTable_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Stores the output of the SQL query in a DataTable variable..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ExecuteQuery_DataTable_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a DataTable.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ExecuteQuery_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Executes a query on a Big Query and returns the query result in a Datatable..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ExecuteQuery_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Execute Query.
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ExecuteQuery_Query_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a An sql command to be executed..
+            </summary>
+        </member>
+        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.ExecuteQuery_Query_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Query.
+            </summary>
+        </member>
         <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Input_Category">
             <summary>
               Consulta uma cadeia de caracteres localizada semelhante a Input.
@@ -63,46 +118,6 @@
         <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Output_Category">
             <summary>
               Consulta uma cadeia de caracteres localizada semelhante a Output.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Credentials_Description">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Caminho completo para o json de credenciais.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Credentials_DisplayName">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Credentials.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Description">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Realiza uma consulta em em Big Query.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_DisplayName">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Realizar Consulta.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Query_Description">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Query a ser utilizada na consulta.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Query_DisplayName">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Query.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Result_Description">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a DataTable resultante da consulta.
-            </summary>
-        </member>
-        <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.RealizarConsulta_Result_DisplayName">
-            <summary>
-              Consulta uma cadeia de caracteres localizada semelhante a Result.
             </summary>
         </member>
         <member name="P:Elogroup.BigQuery.Activities.Properties.Resources.Timeout_Description">

@@ -181,44 +181,52 @@
     <value>Please provide values for both {0} and {1}.</value>
     <comment>error message; {0} &amp; {1} are complementary properties</comment>
   </data>
-  <data name="RealizarConsulta_DisplayName" xml:space="preserve">
-    <value>Realizar Consulta</value>
+  <data name="BigQueryScope_DisplayName" xml:space="preserve">
+    <value>Big Query Scope</value>
     <comment>activity name</comment>
   </data>
-  <data name="RealizarConsulta_Description" xml:space="preserve">
-    <value>Realiza uma consulta em em Big Query</value>
+  <data name="BigQueryScope_Description" xml:space="preserve">
+    <value>Provides a scope for Big Query Activities.</value>
     <comment>activity description</comment>
   </data>
-  <data name="RealizarConsulta_Credentials_DisplayName" xml:space="preserve">
+  <data name="BigQueryScope_Credentials_DisplayName" xml:space="preserve">
     <value>Credentials</value>
     <comment>property name</comment>
   </data>
-  <data name="RealizarConsulta_Credentials_Description" xml:space="preserve">
-    <value>Caminho completo para o json de credenciais</value>
+  <data name="BigQueryScope_Credentials_Description" xml:space="preserve">
+    <value>Full Directory for Credentials Json</value>
     <comment>property description</comment>
   </data>
   <data name="Input_Category" xml:space="preserve">
     <value>Input</value>
     <comment>category</comment>
   </data>
-  <data name="RealizarConsulta_Query_DisplayName" xml:space="preserve">
+  <data name="ExecuteQuery_DisplayName" xml:space="preserve">
+    <value>Execute Query</value>
+    <comment>activity name</comment>
+  </data>
+  <data name="ExecuteQuery_Description" xml:space="preserve">
+    <value>Executes a query on a Big Query and returns the query result in a Datatable.</value>
+    <comment>activity description</comment>
+  </data>
+  <data name="ExecuteQuery_Query_DisplayName" xml:space="preserve">
     <value>Query</value>
     <comment>property name</comment>
   </data>
-  <data name="RealizarConsulta_Query_Description" xml:space="preserve">
-    <value>Query a ser utilizada na consulta</value>
+  <data name="ExecuteQuery_Query_Description" xml:space="preserve">
+    <value>An sql command to be executed.</value>
     <comment>property description</comment>
   </data>
   <data name="Input_Category" xml:space="preserve">
     <value>Input</value>
     <comment>category</comment>
   </data>
-  <data name="RealizarConsulta_Result_DisplayName" xml:space="preserve">
-    <value>Result</value>
+  <data name="ExecuteQuery_DataTable_DisplayName" xml:space="preserve">
+    <value>DataTable</value>
     <comment>property name</comment>
   </data>
-  <data name="RealizarConsulta_Result_Description" xml:space="preserve">
-    <value>DataTable resultante da consulta</value>
+  <data name="ExecuteQuery_DataTable_Description" xml:space="preserve">
+    <value>Stores the output of the SQL query in a DataTable variable.</value>
     <comment>property description</comment>
   </data>
   <data name="Output_Category" xml:space="preserve">
