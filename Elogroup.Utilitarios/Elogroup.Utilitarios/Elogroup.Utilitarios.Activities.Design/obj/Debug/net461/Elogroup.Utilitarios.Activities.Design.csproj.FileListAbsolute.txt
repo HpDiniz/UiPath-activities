@@ -29,3 +29,5 @@ C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogrou
 C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities.Design\obj\Debug\net461\Elogroup.Utilitarios.Activities.Design.csproj.CoreCompileInputs.cache
 C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities.Design\obj\Debug\net461\Elogroup.Utilitarios.Activities.Design.dll
 C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities.Design\obj\Debug\net461\Elogroup.Utilitarios.Activities.Design.pdb
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities.Design\obj\Debug\net461\Designers\ConverterDataTableParaHTMLDesigner.g.cs
+C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities.Design\obj\Debug\net461\Designers\ConverterDataTableParaHTMLDesigner.baml

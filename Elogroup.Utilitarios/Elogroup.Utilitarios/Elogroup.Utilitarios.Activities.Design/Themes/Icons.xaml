@@ -1,7 +1,6 @@
 <ResourceDictionary xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml">
 
-
-        <!--ObterFeriadosANBIMA Icon-->
+    <!--ObterFeriadosANBIMA Icon-->
     <DrawingGroup x:Key="icons8windowscalendare57d890748ca412d9606291efc9e29a2_0">
       <DrawingGroup.ClipGeometry>
         <RectangleGeometry Rect="0,0,48,48" />
@@ -131,5 +130,40 @@
     </DrawingGroup>
     <DrawingBrush x:Key="ObterFeriadosANBIMAIcon" Drawing="{StaticResource icons8windowscalendare57d890748ca412d9606291efc9e29a2_0}" />
 
-
+    <!--ConverterDataTableParaHTML Icon-->
+    <DrawingGroup x:Key="datasourcesea45806f7d9648dcbbf81980e36c3f5d_0">
+    <DrawingGroup.ClipGeometry>
+            <RectangleGeometry Rect="0,0,512,512" />
+        </DrawingGroup.ClipGeometry>
+        <DrawingGroup x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_1" Transform="0.1,0,0,-0.1,0,512">
+            <GeometryDrawing x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_2" Brush="#FF000000">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M2305,5114C2283,5112 2209,5106 2140,5100 1293,5028 650,4729 521,4348 500,4286 500,4283 500,2560 500,837 500,834 521,772 650,390 1252,110 2140,18 2411,-10 2906,3 3210,46 3950,150 4483,429 4599,772 4620,834 4620,837 4620,2560 4620,4283 4620,4286 4599,4348 4473,4721 3883,5003 3035,5096 2904,5110 2396,5123 2305,5114z M3080,4926C3676,4849 4110,4690 4330,4468 4453,4343 4487,4210 4426,4086 4300,3829 3826,3605 3220,3516 2976,3481 2890,3475 2560,3475 2230,3475 2144,3481 1900,3516 1294,3605 820,3829 694,4086 572,4335 831,4605 1360,4780 1617,4866 1830,4906 2235,4944 2336,4954 2971,4940 3080,4926z M724,3793C1019,3526 1627,3345 2345,3310 3188,3268 4037,3468 4396,3793 4425,3819 4451,3840 4455,3840 4458,3840 4460,3722 4458,3578 4455,3329 4454,3313 4432,3270 4326,3056 4001,2866 3549,2755 3035,2629 2399,2609 1831,2702 1551,2747 1306,2822 1095,2925 886,3027 752,3140 688,3270 666,3313 665,3329 662,3578 660,3722 662,3840 665,3840 669,3840 695,3819 724,3793z M894,2844C1176,2676 1567,2561 2055,2503 2269,2478 2851,2478 3065,2503 3660,2574 4114,2730 4385,2957L4461,3021 4458,2758C4455,2496 4455,2495 4428,2437 4311,2187 3849,1964 3258,1871 2998,1830 2921,1825 2560,1825 2199,1825 2122,1830 1862,1871 1271,1964 809,2187 692,2437 665,2495 665,2496 662,2758L659,3021 735,2957C778,2921,849,2871,894,2844z M733,2132C787,2085 920,2000 1010,1955 1746,1586 3077,1550 3925,1875 4109,1946 4287,2045 4387,2132 4470,2205 4462,2227 4458,1929L4455,1665 4427,1608C4285,1320 3754,1095 3020,1013 2804,990 2316,990 2100,1013 1366,1095 835,1320 693,1608L665,1665 662,1929C658,2227,650,2205,733,2132z M847,1223C1152,1023 1627,887 2185,840 2340,827 2780,827 2935,840 3584,895 4132,1075 4408,1325L4461,1373 4458,1109 4455,844 4423,779C4284,497 3768,277 3035,188 2885,170 2235,170 2085,188 1352,277 836,497 697,779L665,844 662,1109 659,1373 712,1325C741,1298,802,1253,847,1223z" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+        <DrawingGroup x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_3" Transform="1.179,0,0,1.3715,-210.4758,147.5263">
+            <GeometryDrawing x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_4" Brush="#FFE44D26">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M415.21882,246.72052L395.46922,78.661772 612.59517,78.661772 592.84557,246.62978 503.85265,265.32314" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_5" Brush="#FFF16529">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M504.03219,251.03089L504.03219,92.454931 592.78572,92.454931 575.84894,235.83119" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_6" Brush="#FFEBEBEB">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M435.80629,113.00855L504.03219,113.00855 504.03219,133.60755 465.61024,133.60755 468.12382,154.70563 504.03219,154.70563 504.03219,175.25926 443.22735,175.25926 M444.4243,185.60413L471.71466,185.60413 473.62977,202.07425 504.03219,208.24487 504.03219,229.75131 448.25452,217.95453" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+            <GeometryDrawing x:Name="definitivedatahtml01f751d24d0a42678e2cab384c2d0ae7_7" Brush="#FFFFFFFF">
+                <GeometryDrawing.Geometry>
+                    <PathGeometry FillRule="Nonzero" Figures="M572.01871,113.00855L503.9125,113.00855 503.9125,133.60755 569.50513,133.60755 M567.05139,154.70563L503.9125,154.70563 503.9125,175.30463 537.42698,175.30463 534.25507,202.07425 503.9125,208.24487 503.9125,229.66056 559.57048,217.95453" />
+                </GeometryDrawing.Geometry>
+            </GeometryDrawing>
+        </DrawingGroup>
+    </DrawingGroup>
+    <DrawingBrush x:Key="ConverterDataTableParaHTMLIcon" Drawing="{StaticResource datasourcesea45806f7d9648dcbbf81980e36c3f5d_0}" />
 </ResourceDictionary>

@@ -4,6 +4,19 @@
         <name>Elogroup.Utilitarios.Activities.Design</name>
     </assembly>
     <members>
+        <member name="T:Elogroup.Utilitarios.Activities.Design.Designers.ConverterDataTableParaHTMLDesigner">
+            <summary>
+            Interaction logic for ConverterDataTableParaHTMLDesigner.xaml
+            </summary>
+            <summary>
+            ConverterDataTableParaHTMLDesigner
+            </summary>
+        </member>
+        <member name="M:Elogroup.Utilitarios.Activities.Design.Designers.ConverterDataTableParaHTMLDesigner.InitializeComponent">
+            <summary>
+            InitializeComponent
+            </summary>
+        </member>
         <member name="T:Elogroup.Utilitarios.Activities.Design.Designers.ObterFeriadosANBIMADesigner">
             <summary>
             Interaction logic for ObterFeriadosANBIMADesigner.xaml

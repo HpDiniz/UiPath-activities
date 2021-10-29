@@ -97,6 +97,78 @@ namespace Elogroup.Utilitarios.Activities.Properties {
         }
         
         /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Datable de referencia que será convertido para HTML.
+        /// </summary>
+        public static string ConverterDataTableParaHTML_DataTable_Description {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_DataTable_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a DataTable.
+        /// </summary>
+        public static string ConverterDataTableParaHTML_DataTable_DisplayName {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_DataTable_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Converte uma DataTable em um código HTML..
+        /// </summary>
+        public static string ConverterDataTableParaHTML_Description {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Converter DataTable para HTML.
+        /// </summary>
+        public static string ConverterDataTableParaHTML_DisplayName {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Dicionário de opções de estilo para as colunas e células. Filtra-se pelo nome original da coluna no DataTable, e dentro uma List (of Strings), podemos passar três argumentos. Exemplo: { &quot;Apelido para coluna&quot;, &quot;CSS para a coluna&quot;, &quot;CSS para a célula&quot; }. Se esse dicionárion não é fornecido, a tabela assume o layout default..
+        /// </summary>
+        public static string ConverterDataTableParaHTML_Options_Description {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_Options_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Options.
+        /// </summary>
+        public static string ConverterDataTableParaHTML_Options_DisplayName {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_Options_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a String contendo a tabela HTML gerada pelo processo.
+        /// </summary>
+        public static string ConverterDataTableParaHTML_Result_Description {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_Result_Description", resourceCulture);
+            }
+        }
+        
+        /// <summary>
+        ///   Consulta uma cadeia de caracteres localizada semelhante a Result.
+        /// </summary>
+        public static string ConverterDataTableParaHTML_Result_DisplayName {
+            get {
+                return ResourceManager.GetString("ConverterDataTableParaHTML_Result_DisplayName", resourceCulture);
+            }
+        }
+        
+        /// <summary>
         ///   Consulta uma cadeia de caracteres localizada semelhante a Do.
         /// </summary>
         public static string Do {

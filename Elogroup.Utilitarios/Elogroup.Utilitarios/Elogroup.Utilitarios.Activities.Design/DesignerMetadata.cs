@@ -19,6 +19,10 @@ namespace Elogroup.Utilitarios.Activities.Design
             builder.AddCustomAttributes(typeof(ObterFeriadosANBIMA), new DesignerAttribute(typeof(ObterFeriadosANBIMADesigner)));
             builder.AddCustomAttributes(typeof(ObterFeriadosANBIMA), new HelpKeywordAttribute(""));
 
+            builder.AddCustomAttributes(typeof(ConverterDataTableParaHTML), categoryAttribute);
+            builder.AddCustomAttributes(typeof(ConverterDataTableParaHTML), new DesignerAttribute(typeof(ConverterDataTableParaHTMLDesigner)));
+            builder.AddCustomAttributes(typeof(ConverterDataTableParaHTML), new HelpKeywordAttribute(""));
+
 
             MetadataStore.AddAttributeTable(builder.CreateTable());
         }

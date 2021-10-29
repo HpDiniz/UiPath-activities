@@ -30,6 +30,7 @@
     <PackageVersion>0.1.0</PackageVersion>
   </PropertyGroup>
   <ItemGroup>
+    <None Remove="Designers\ConverterDataTableParaHTMLDesigner.xaml" />
     <None Remove="Designers\ObterFeriadosANBIMADesigner.xaml" />
   </ItemGroup>
   <!-- Package Icon -->
@@ -75,6 +76,10 @@
       <Link>Themes\Generic.xaml</Link>
       <Generator>XamlIntelliSenseFileGenerator</Generator>
       <SubType>Designer</SubType>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Page>
+    <Page Include="Designers\ConverterDataTableParaHTMLDesigner.xaml">
+      <Generator>MSBuild:UpdateDesignTimeXaml</Generator>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
     </Page>
     <Page Include="Designers\ObterFeriadosANBIMADesigner.xaml">

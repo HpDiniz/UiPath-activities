@@ -4,6 +4,11 @@
         <name>Elogroup.Utilitarios.Activities</name>
     </assembly>
     <members>
+        <member name="P:Elogroup.Utilitarios.Activities.ConverterDataTableParaHTML.ContinueOnError">
+            <summary>
+            If set, continue executing the remaining activities even if the current activity has failed.
+            </summary>
+        </member>
         <member name="P:Elogroup.Utilitarios.Activities.ObterFeriadosANBIMA.ContinueOnError">
             <summary>
             If set, continue executing the remaining activities even if the current activity has failed.
@@ -43,6 +48,46 @@
         <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ContinueOnError_DisplayName">
             <summary>
               Consulta uma cadeia de caracteres localizada semelhante a ContinueOnError.
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_DataTable_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Datable de referencia que será convertido para HTML.
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_DataTable_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a DataTable.
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Converte uma DataTable em um código HTML..
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Converter DataTable para HTML.
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_Options_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Dicionário de opções de estilo para as colunas e células. Filtra-se pelo nome original da coluna no DataTable, e dentro uma List (of Strings), podemos passar três argumentos. Exemplo: { &quot;Apelido para coluna&quot;, &quot;CSS para a coluna&quot;, &quot;CSS para a célula&quot; }. Se esse dicionárion não é fornecido, a tabela assume o layout default..
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_Options_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Options.
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_Result_Description">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a String contendo a tabela HTML gerada pelo processo.
+            </summary>
+        </member>
+        <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.ConverterDataTableParaHTML_Result_DisplayName">
+            <summary>
+              Consulta uma cadeia de caracteres localizada semelhante a Result.
             </summary>
         </member>
         <member name="P:Elogroup.Utilitarios.Activities.Properties.Resources.Do">

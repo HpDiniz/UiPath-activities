@@ -4,6 +4,11 @@
     <_LastSelectedProfileId>C:\Users\Henrique\source\repos\Elogroup.Utilitarios\Elogroup.Utilitarios\Elogroup.Utilitarios.Activities.Design\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
   </PropertyGroup>
   <ItemGroup>
+    <Page Update="Designers\ConverterDataTableParaHTMLDesigner.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+  <ItemGroup>
     <Page Update="Designers\ObterFeriadosANBIMADesigner.xaml">
       <SubType>Designer</SubType>
     </Page>
